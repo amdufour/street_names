@@ -1,6 +1,4 @@
-# 100 Most Spoken Languages
-
-Project built along with chapter 11 of [D3.js in Action, 3rd edition](https://www.manning.com/books/d3js-in-action-third-edition). Refer to the chapter for a breakdown of each step.
+# Street Names
 
 ## Run this project
 
