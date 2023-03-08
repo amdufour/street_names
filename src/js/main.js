@@ -1,4 +1,4 @@
-import * as d3 from "d3";
+import { select } from "d3-selection";
 
 import { loadCSVData } from "./load-data";
 import { initializeScales } from "./scales";
@@ -20,7 +20,7 @@ data.forEach(d => {
 
 initializeScales(filteredData, countries, fields);
 
-const countryWrappers = d3.select("#countries")
+const countryWrappers = select("#countries")
   .selectAll(".country-wrapper")
   .data(countries)
   .join("div")

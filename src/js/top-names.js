@@ -1,8 +1,8 @@
-import * as d3 from "d3";
+import { select } from "d3-selection";
 
 export const topNames = (data) => {
 
-  d3.select("#top-names")
+  select("#top-names")
     .selectAll(".name")
     .data(data)
     .join("div")

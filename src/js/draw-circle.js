@@ -1,4 +1,4 @@
-import * as d3 from "d3";
+import { select } from "d3-selection";
 
 import { colorScale, lengthScale, angle, genderScale } from "./scales";
 
@@ -20,7 +20,7 @@ export const drawCircle = (data, fields, country) => {
   const height = 250;
 
   // Append SVG container
-  const svg = d3.select(`#country-${country}`)
+  const svg = select(`#country-${country}`)
     .append("svg")
       .attr("viewBox", `0 0 ${width} ${height}`)
     .append("g")

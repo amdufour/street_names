@@ -1,4 +1,7 @@
-import * as d3 from "d3";
+import { select, selectAll } from "d3-selection";
+import { scalePoint, scaleLinear } from "d3-scale";
+import { max } from "d3-array";
+import { axisLeft, axisBottom } from "d3-axis";
 
 import { countries } from "./helpers";
 import { genderScale } from "./scales";
@@ -19,29 +22,29 @@ export const drawDumbbells = (data) => {
   const innerWidth = width - margin.left - margin.right;
   const innerHeight = height - margin.top - margin.bottom;
 
-  const svg = d3.select("#dumbbells")
+  const svg = select("#dumbbells")
     .append("svg")
       .attr("viewBox", `0 0 ${width} ${height}`)
     .append("g")
       .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
-  const bandScale = d3.scalePoint()
+  const bandScale = scalePoint()
     .domain(countries.map(c => c.name))
     .range([0, height - margin.bottom - margin.top]);
-  const xScale = d3.scaleLinear()
-    .domain([0, d3.max(data, d => d.numMale)])
+  const xScale = scaleLinear()
+    .domain([0, max(data, d => d.numMale)])
     .range([0, innerWidth]);
 
-  const leftAxis = d3.axisLeft(bandScale)
+  const leftAxis = axisLeft(bandScale)
     .tickSize(-innerWidth);
   svg
     .append("g")
       .attr("class", "axis axis-y")
       .call(leftAxis);
-  d3.selectAll(".axis-y text")
+  selectAll(".axis-y text")
     .attr("x", "-10px");
 
-  const bottomAxis = d3.axisBottom(xScale)
+  const bottomAxis = axisBottom(xScale)
     .tickSize(0);
   svg
     .append("g")
