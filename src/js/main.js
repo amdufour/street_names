@@ -6,6 +6,7 @@ import { drawCircle } from "./draw-circle";
 import { countries } from "./helpers";
 import { topNames } from "./top-names";
 import { drawDumbbells } from "./dumbbells";
+import { drawMatrix } from "./matrix";
 
 const [data, fields, top100] = loadCSVData(countries);
 
@@ -33,6 +34,7 @@ countryWrappers
     .attr("class", "country-label")
     .text(d => d.name);
 
+drawMatrix(top100);
 
 countries.forEach(country => {
   const relatedData = filteredData.find(d => d.country === country.id).data;

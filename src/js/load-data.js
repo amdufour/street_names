@@ -8,7 +8,7 @@ export const loadCSVData = (countries) => {
   allData = allData.slice(0, 100);
   console.log("allData", allData);
   
-  const fields = [];
+  let fields = [];
   data.forEach(d => {
     let field = d["field of activity"];
     if (field.includes(";")) {
@@ -16,7 +16,7 @@ export const loadCSVData = (countries) => {
     }
 
     if (field === "NA") {
-      field = "other";
+      field = "non available";
     }
     d["field"] = field;
 
@@ -32,6 +32,14 @@ export const loadCSVData = (countries) => {
   });
 
   fields.sort((a, b) => b.count - a.count);
+  const fieldOther = fields.find(field => field.id === "other");
+  const indexOther = fields.findIndex(field => field.id === "other");
+  fields.splice(indexOther, 1);
+  fields.push(fieldOther);
+  const fieldNA = fields.find(field => field.id === "non available");
+  const indexNA = fields.findIndex(field => field.id === "non available");
+  fields.splice(indexNA, 1);
+  fields.push(fieldNA);
 
   console.log("fields", fields);
 

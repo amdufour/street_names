@@ -30,7 +30,7 @@ export const drawDumbbells = (data) => {
 
   const bandScale = scalePoint()
     .domain(countries.map(c => c.name))
-    .range([0, height - margin.bottom - margin.top]);
+    .range([0, innerHeight]);
   const xScale = scaleLinear()
     .domain([0, max(data, d => d.numMale)])
     .range([0, innerWidth]);

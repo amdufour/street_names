@@ -12,7 +12,7 @@ export const initializeScales = (data, countries, fields) => {
 
   colorScale = scaleOrdinal()
     .domain(fields.map(f => f.id))
-    .range(["#8ecae6", "#219ebc", "#023047", "#ffb703", "#fb8500"]);
+    .range(["#8ecae6", "#219ebc", "#023047", "#ffb703", "#fb8500", "#909393"]);
 
   const maxStreets = [];
   const lengths = [];
