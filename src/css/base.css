@@ -15,9 +15,10 @@ body {
   font-size: 1.8rem;
   line-height: 1.4;
   font-weight: 400;
-  color: #36311f;
+  color: #080F14;
 }
 .container {
+  position: relative;
   margin-right: auto;
   margin-left: auto;
   padding-right: 30px;

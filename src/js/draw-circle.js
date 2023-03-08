@@ -33,13 +33,32 @@ export const drawCircle = (data, fields, country) => {
     .data(sortedData)
     .join("line")
       .attr("class", "name-line")
-        .attr("x1", 0)
-        .attr("y1", 0)
-        .attr("x2", (d, i) => lengthScale(+d["n. of foreign cities celebrating the individual with one or more streets (current country borders)"]) * Math.cos(i * angle + Math.PI))
-        .attr("y2", (d, i) => lengthScale(+d["n. of foreign cities celebrating the individual with one or more streets (current country borders)"]) * Math.sin(i * angle + Math.PI))
-        .attr("stroke", d => colorScale(d.field))
-        .attr("stroke-width", 1.2)
-        .attr("stroke-linecap", "round");
+      .attr("x1", 0)
+      .attr("y1", 0)
+      .attr("x2", (d, i) => lengthScale(+d["n. of foreign cities celebrating the individual with one or more streets (current country borders)"]) * Math.cos(i * angle + Math.PI))
+      .attr("y2", (d, i) => lengthScale(+d["n. of foreign cities celebrating the individual with one or more streets (current country borders)"]) * Math.sin(i * angle + Math.PI))
+      .attr("stroke", d => colorScale(d.field))
+      .attr("stroke-width", 1.2)
+      .attr("stroke-linecap", "round")
+      .on("mouseenter", (e, d) => {
+        console.log(e)
+        console.log(d)
+
+        select("#countries-tooltip .tooltip-name").text(d.name);
+        select("#countries-tooltip .description").text(d["description (from Wikidata)"]);
+        select("#countries-tooltip .num").text(d["n. of foreign cities celebrating the individual with one or more streets (current country borders)"]);
+
+        select("#countries-tooltip")
+          .style("top", `${e.layerY + 20}px`)
+          .style("left", `${e.layerX + 20}px`)
+          .style("opacity", 1);
+      })
+      .on("mouseleave", () => {
+        select("#countries-tooltip")
+          .style("top", "-9000rem")
+          .style("left", "-9000rem")
+          .style("opacity", 0);
+      });
   
   svg
     .selectAll("class", ".women-dot")
