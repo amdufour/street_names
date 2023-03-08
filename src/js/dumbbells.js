@@ -13,12 +13,21 @@ export const drawDumbbells = (data) => {
   data.forEach(d => {
     d["numMale"] = d.data.filter(c => c.gender === "male").length;
     d["numFemale"] = d.data.filter(c => c.gender === "female").length;
+    d["diff"] = Math.abs(d.numMale - d.numFemale);
+  });
+  data.sort((a, b) => b.diff - a.diff);
+  console.log("diff", data);
+
+  const orderedCountries = [];
+  data.forEach(d => {
+    const country = countries.find(coun => coun.id === d.country);
+    orderedCountries.push(country);
   });
 
   // Dimensions
   const width = 1140;
   const height = 1000;
-  const margin = { top: 50, right: 50, left: 130, bottom: 50 };
+  const margin = { top: 50, right: 50, left: 200, bottom: 50 };
   const innerWidth = width - margin.left - margin.right;
   const innerHeight = height - margin.top - margin.bottom;
 
@@ -29,7 +38,7 @@ export const drawDumbbells = (data) => {
       .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
   const bandScale = scalePoint()
-    .domain(countries.map(c => c.name))
+    .domain(orderedCountries.map(c => c.name))
     .range([0, innerHeight]);
   const xScale = scaleLinear()
     .domain([0, max(data, d => d.numMale)])
