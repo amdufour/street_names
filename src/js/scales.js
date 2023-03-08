@@ -6,13 +6,13 @@ export let lengthScale;
 export let angle = 0;
 export const genderScale = scaleOrdinal()
   .domain(["male", "female"])
-  .range(["#1B4965", "#D5573B"]);
+  .range(["#C0D684", "#A30B37"]);
 
 export const initializeScales = (data, countries, fields) => {
 
   colorScale = scaleOrdinal()
     .domain(fields.map(f => f.id))
-    .range(["#8ecae6", "#219ebc", "#023047", "#ffb703", "#fb8500", "#909393"]);
+    .range(["#33658A", "#86BBD8", "#758E4F", "#F6AE2D", "#F26419", "#8B8D8E"]);
 
   const maxStreets = [];
   const lengths = [];
@@ -25,7 +25,7 @@ export const initializeScales = (data, countries, fields) => {
   const maxNumStreets = max(maxStreets);
   lengthScale = scaleLinear()
     .domain([0, maxNumStreets])
-    .range([0, 190]);
+    .range([0, 145]);
 
   angle = 2 * Math.PI / max(lengths);
   console.log(maxNumStreets, angle)

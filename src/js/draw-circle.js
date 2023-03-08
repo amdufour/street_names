@@ -16,8 +16,8 @@ export const drawCircle = (data, fields, country) => {
   
   
   // Dimensions
-  const width = 380;
-  const height = 250;
+  const width = 290;
+  const height = 290;
 
   // Append SVG container
   const svg = select(`#country-${country}`)
@@ -38,7 +38,7 @@ export const drawCircle = (data, fields, country) => {
         .attr("x2", (d, i) => lengthScale(+d["n. of foreign cities celebrating the individual with one or more streets (current country borders)"]) * Math.cos(i * angle + Math.PI))
         .attr("y2", (d, i) => lengthScale(+d["n. of foreign cities celebrating the individual with one or more streets (current country borders)"]) * Math.sin(i * angle + Math.PI))
         .attr("stroke", d => colorScale(d.field))
-        .attr("stroke-width", 1.5)
+        .attr("stroke-width", 1.2)
         .attr("stroke-linecap", "round");
   
   svg

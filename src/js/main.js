@@ -25,14 +25,14 @@ const countryWrappers = select("#countries")
   .selectAll(".country-wrapper")
   .data(countries)
   .join("div")
-    .attr("class", "country-wrapper col-3");
-countryWrappers
-  .append("div")
-    .attr("id", d => `country-${d.id}`);
+    .attr("class", "country-wrapper col-2");
 countryWrappers
   .append("div")
     .attr("class", "country-label")
     .text(d => d.name);
+countryWrappers
+  .append("div")
+    .attr("id", d => `country-${d.id}`);
 
 drawMatrix(top100);
 

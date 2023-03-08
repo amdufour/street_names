@@ -1,6 +1,31 @@
 .country-label {
-  margin-bottom: 50px;
+  margin-top: 50px;
+  margin-bottom: -30px;
   text-align: center;
+}
+#legend-rays {
+  width: 1000px;
+  height: 386px;
+  background-image: url("../assets/legend_rays.svg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center;
+}
+
+.word-legend {
+  display: inline-block;
+  margin: 2px 1px;
+  padding: 2px 5px;
+  line-height: 2rem;
+  font-weight: 500;
+  color: #f6fafc;
+  border-radius: 2px;
+}
+.word-legend.women {
+  background-color: #A30B37;
+}
+.word-legend.men {
+  background-color: #C0D684;
 }
 
 #top-names {
@@ -31,7 +56,7 @@
   left: 0;
   width: 5px;
   height: 5px;
-  background-color: #D5573B;
+  background-color: #A30B37;
   border-radius: 50%;
 }
 
