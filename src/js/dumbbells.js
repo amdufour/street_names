@@ -42,7 +42,7 @@ export const drawDumbbells = (data) => {
       .attr("class", "axis axis-y")
       .call(leftAxis);
   selectAll(".axis-y text")
-    .attr("x", "-10px");
+    .attr("x", "-12px");
 
   const bottomAxis = axisBottom(xScale)
     .tickSize(0);
@@ -68,8 +68,8 @@ export const drawDumbbells = (data) => {
       .attr("x2", d => xScale(d.numMale))
       .attr("y2", d => bandScale(countries.find(c => c.id === d.country).name))
       .attr("stroke", "black")
-      .attr("stroke-width", 3);
-  const dumbbellRadius = 13;
+      .attr("stroke-width", 2);
+  const dumbbellRadius = 10;
   dumbbells
     .append("circle")
       .attr("cx", d => xScale(d.numMale))

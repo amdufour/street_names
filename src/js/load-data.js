@@ -3,6 +3,7 @@ export const loadCSVData = (countries) => {
   const data = require("../data/names_all_og.csv");
 
   let allData = JSON.parse(JSON.stringify(data));
+  allData = allData.filter(d => countries.find(c => c.id === d["country code of the current country hosting the place of birth"]));
   allData.sort((a, b) => +b["n. of foreign cities celebrating the individual with one or more streets (current country borders)"] - +a["n. of foreign cities celebrating the individual with one or more streets (current country borders)"]);
   allData = allData.slice(0, 100);
   console.log("allData", allData);
