@@ -92,3 +92,11 @@
 .tooltip-section {
   margin: 10px 0;
 }
+
+#map {
+  height: 770;
+  background-image: url("../assets/map-concept.svg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position: center top;
+}
