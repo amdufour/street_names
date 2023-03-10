@@ -1,15 +1,18 @@
-export const loadCSVData = (countries) => {
+import { citiesDitionary, countries, testNationality, EUcountries } from "./helpers";
 
-  const data = require("../data/names_all_og.csv");
+export const loadCSVData = () => {
 
-  let allData = JSON.parse(JSON.stringify(data));
-  allData = allData.filter(d => countries.find(c => c.id === d["country code of the current country hosting the place of birth"]));
+  // Prep steps
+  const regions = require("../data/world-regions_world-bank.json");
+  const dataWithCitizenship = require("../data/data_with_citizenships.json");
+  console.log(dataWithCitizenship);
+
+  let allData = JSON.parse(JSON.stringify(dataWithCitizenship));
   allData.sort((a, b) => +b["n. of foreign cities celebrating the individual with one or more streets (current country borders)"] - +a["n. of foreign cities celebrating the individual with one or more streets (current country borders)"]);
-  allData = allData.slice(0, 100);
   console.log("allData", allData);
   
   let fields = [];
-  data.forEach(d => {
+  dataWithCitizenship.forEach(d => {
     let field = d["field of activity"];
     if (field.includes(";")) {
       field = field.slice(0, field.indexOf(";"));
@@ -43,15 +46,16 @@ export const loadCSVData = (countries) => {
 
   console.log("fields", fields);
 
-  const countriesData = [];
-  countries.forEach(country => {
-    const relatedData = data.filter(d => d["country code of the current country hosting the place of birth"] === country.id);
-    countriesData.push({
+  const EUCountriesData = [];
+  EUcountries.forEach(country => {
+    const relatedData = dataWithCitizenship.filter(d => d["country code of the current country hosting the place of birth"] === country.id);
+    EUCountriesData.push({
       country: country.id,
       data: relatedData
     });
   });
+  console.log("EUCountriesData", EUCountriesData);
 
-  return [countriesData, fields, allData];
+  return [EUCountriesData, fields, allData];
 
 };

@@ -3,27 +3,27 @@ import { select } from "d3-selection";
 import { loadCSVData } from "./load-data";
 import { initializeScales } from "./scales";
 import { drawCircle } from "./draw-circle";
-import { countries } from "./helpers";
+import { EUcountries } from "./helpers";
 import { topNames } from "./top-names";
 import { drawDumbbells } from "./dumbbells";
 import { drawMatrix } from "./matrix";
 
-const [data, fields, top100] = loadCSVData(countries);
+const [EUCountriesData, fields, allData] = loadCSVData();
 
 const minNumStreet = 3;
 const filteredData = [];
-data.forEach(d => {
+EUCountriesData.forEach(d => {
   filteredData.push({
     country: d.country,
     data: d.data.filter(d => +d["n. of foreign cities celebrating the individual with one or more streets (current country borders)"] >= minNumStreet)
   });
 });
 
-initializeScales(filteredData, countries, fields);
+initializeScales(filteredData, EUcountries, fields);
 
 const countryWrappers = select("#countries")
   .selectAll(".country-wrapper")
-  .data(countries)
+  .data(EUcountries)
   .join("div")
     .attr("class", "country-wrapper col-2");
 countryWrappers
@@ -34,13 +34,14 @@ countryWrappers
   .append("div")
     .attr("id", d => `country-${d.id}`);
 
-drawMatrix(top100);
+// drawMatrix(top100);
 
-countries.forEach(country => {
+EUcountries.forEach(country => {
   const relatedData = filteredData.find(d => d.country === country.id).data;
   drawCircle(relatedData, fields, country.id);
 });
 
-drawDumbbells(filteredData);
-
+const top100 = allData.slice(0, 100);
 topNames(top100);
+
+drawDumbbells(EUCountriesData);

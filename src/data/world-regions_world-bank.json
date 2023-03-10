@@ -1,0 +1,1518 @@
+[
+    {
+        "Entity": "Afghanistan",
+        "Code": "AFG",
+        "Year": "2017",
+        "World Region according to the World Bank": "South Asia",
+        "code2Letters": "AF"
+    },
+    {
+        "Entity": "Albania",
+        "Code": "ALB",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "AL"
+    },
+    {
+        "Entity": "Algeria",
+        "Code": "DZA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "DZ"
+    },
+    {
+        "Entity": "American Samoa",
+        "Code": "ASM",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "AS"
+    },
+    {
+        "Entity": "Andorra",
+        "Code": "AND",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "AD"
+    },
+    {
+        "Entity": "Angola",
+        "Code": "AGO",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "AO"
+    },
+    {
+        "Entity": "Antigua and Barbuda",
+        "Code": "ATG",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "AG"
+    },
+    {
+        "Entity": "Argentina",
+        "Code": "ARG",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "AR"
+    },
+    {
+        "Entity": "Armenia",
+        "Code": "ARM",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "AM"
+    },
+    {
+        "Entity": "Aruba",
+        "Code": "ABW",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "AW"
+    },
+    {
+        "Entity": "Australia",
+        "Code": "AUS",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "AU"
+    },
+    {
+        "Entity": "Austria",
+        "Code": "AUT",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "AT"
+    },
+    {
+        "Entity": "Azerbaijan",
+        "Code": "AZE",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "AZ"
+    },
+    {
+        "Entity": "Bahamas",
+        "Code": "BHS",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "BS"
+    },
+    {
+        "Entity": "Bahrain",
+        "Code": "BHR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "BH"
+    },
+    {
+        "Entity": "Bangladesh",
+        "Code": "BGD",
+        "Year": "2017",
+        "World Region according to the World Bank": "South Asia",
+        "code2Letters": "BD"
+    },
+    {
+        "Entity": "Barbados",
+        "Code": "BRB",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "BB"
+    },
+    {
+        "Entity": "Belarus",
+        "Code": "BLR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "BY"
+    },
+    {
+        "Entity": "Belgium",
+        "Code": "BEL",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "BE"
+    },
+    {
+        "Entity": "Belize",
+        "Code": "BLZ",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "BZ"
+    },
+    {
+        "Entity": "Benin",
+        "Code": "BEN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "BJ"
+    },
+    {
+        "Entity": "Bermuda",
+        "Code": "BMU",
+        "Year": "2017",
+        "World Region according to the World Bank": "North America",
+        "code2Letters": "BM"
+    },
+    {
+        "Entity": "Bhutan",
+        "Code": "BTN",
+        "Year": "2017",
+        "World Region according to the World Bank": "South Asia",
+        "code2Letters": "BT"
+    },
+    {
+        "Entity": "Bolivia",
+        "Code": "BOL",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "BO"
+    },
+    {
+        "Entity": "Bosnia and Herzegovina",
+        "Code": "BIH",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "BA"
+    },
+    {
+        "Entity": "Botswana",
+        "Code": "BWA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "BW"
+    },
+    {
+        "Entity": "Brazil",
+        "Code": "BRA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "BR"
+    },
+    {
+        "Entity": "British Virgin Islands",
+        "Code": "VGB",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "VG"
+    },
+    {
+        "Entity": "Brunei",
+        "Code": "BRN",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "BN"
+    },
+    {
+        "Entity": "Bulgaria",
+        "Code": "BGR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "BG"
+    },
+    {
+        "Entity": "Burkina Faso",
+        "Code": "BFA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "BF"
+    },
+    {
+        "Entity": "Burundi",
+        "Code": "BDI",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "BI"
+    },
+    {
+        "Entity": "Cambodia",
+        "Code": "KHM",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "KH"
+    },
+    {
+        "Entity": "Cameroon",
+        "Code": "CMR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "CM"
+    },
+    {
+        "Entity": "Canada",
+        "Code": "CAN",
+        "Year": "2017",
+        "World Region according to the World Bank": "North America",
+        "code2Letters": "CA"
+    },
+    {
+        "Entity": "Cape Verde",
+        "Code": "CPV",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "CV"
+    },
+    {
+        "Entity": "Cayman Islands",
+        "Code": "CYM",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "KY"
+    },
+    {
+        "Entity": "Central African Republic",
+        "Code": "CAF",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "CF"
+    },
+    {
+        "Entity": "Chad",
+        "Code": "TCD",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "TD"
+    },
+    {
+        "Entity": "Channel Islands",
+        "Code": "OWID_CIS",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia"
+    },
+    {
+        "Entity": "Chile",
+        "Code": "CHL",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "CL"
+    },
+    {
+        "Entity": "China",
+        "Code": "CHN",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "CN"
+    },
+    {
+        "Entity": "Colombia",
+        "Code": "COL",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "CO"
+    },
+    {
+        "Entity": "Comoros",
+        "Code": "COM",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "KM"
+    },
+    {
+        "Entity": "Congo",
+        "Code": "COG",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "CG"
+    },
+    {
+        "Entity": "Costa Rica",
+        "Code": "CRI",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "CR"
+    },
+    {
+        "Entity": "Cote d'Ivoire",
+        "Code": "CIV",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "CI"
+    },
+    {
+        "Entity": "Croatia",
+        "Code": "HRV",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "HR"
+    },
+    {
+        "Entity": "Cuba",
+        "Code": "CUB",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "CU"
+    },
+    {
+        "Entity": "Curacao",
+        "Code": "CUW",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "CW"
+    },
+    {
+        "Entity": "Republic of Cyprus",
+        "Code": "CYP",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "CY"
+    },
+    {
+        "Entity": "Czech Republic",
+        "Code": "CZE",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "CZ"
+    },
+    {
+        "Entity": "Democratic Republic of Congo",
+        "Code": "COD",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "CD"
+    },
+    {
+        "Entity": "Denmark",
+        "Code": "DNK",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "DK"
+    },
+    {
+        "Entity": "Djibouti",
+        "Code": "DJI",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "DJ"
+    },
+    {
+        "Entity": "Dominica",
+        "Code": "DMA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "DM"
+    },
+    {
+        "Entity": "Dominican Republic",
+        "Code": "DOM",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "DO"
+    },
+    {
+        "Entity": "Ecuador",
+        "Code": "ECU",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "EC"
+    },
+    {
+        "Entity": "Egypt",
+        "Code": "EGY",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "EG"
+    },
+    {
+        "Entity": "El Salvador",
+        "Code": "SLV",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "SV"
+    },
+    {
+        "Entity": "Equatorial Guinea",
+        "Code": "GNQ",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "GQ"
+    },
+    {
+        "Entity": "Eritrea",
+        "Code": "ERI",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "ER"
+    },
+    {
+        "Entity": "Estonia",
+        "Code": "EST",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "EE"
+    },
+    {
+        "Entity": "Eswatini",
+        "Code": "SWZ",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "SZ"
+    },
+    {
+        "Entity": "Ethiopia",
+        "Code": "ETH",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "ET"
+    },
+    {
+        "Entity": "Faeroe Islands",
+        "Code": "FRO",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "FO"
+    },
+    {
+        "Entity": "Fiji",
+        "Code": "FJI",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "FJ"
+    },
+    {
+        "Entity": "Finland",
+        "Code": "FIN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "FI"
+    },
+    {
+        "Entity": "France",
+        "Code": "FRA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "FR"
+    },
+    {
+        "Entity": "French Polynesia",
+        "Code": "PYF",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "PF"
+    },
+    {
+        "Entity": "Gabon",
+        "Code": "GAB",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "GA"
+    },
+    {
+        "Entity": "Gambia",
+        "Code": "GMB",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "GM"
+    },
+    {
+        "Entity": "Georgia",
+        "Code": "GEO",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "GE"
+    },
+    {
+        "Entity": "Germany",
+        "Code": "DEU",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "DE"
+    },
+    {
+        "Entity": "Ghana",
+        "Code": "GHA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "GH"
+    },
+    {
+        "Entity": "Gibraltar",
+        "Code": "GIB",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "GI"
+    },
+    {
+        "Entity": "Greece",
+        "Code": "GRC",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "GR"
+    },
+    {
+        "Entity": "Greenland",
+        "Code": "GRL",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "GL"
+    },
+    {
+        "Entity": "Grenada",
+        "Code": "GRD",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "GD"
+    },
+    {
+        "Entity": "Guam",
+        "Code": "GUM",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "GU"
+    },
+    {
+        "Entity": "Guatemala",
+        "Code": "GTM",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "GT"
+    },
+    {
+        "Entity": "Guinea",
+        "Code": "GIN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "GN"
+    },
+    {
+        "Entity": "Guinea-Bissau",
+        "Code": "GNB",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "GW"
+    },
+    {
+        "Entity": "Guyana",
+        "Code": "GUY",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "GY"
+    },
+    {
+        "Entity": "Haiti",
+        "Code": "HTI",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "HT"
+    },
+    {
+        "Entity": "Honduras",
+        "Code": "HND",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "HN"
+    },
+    {
+        "Entity": "Hong Kong",
+        "Code": "HKG",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "HK"
+    },
+    {
+        "Entity": "Hungary",
+        "Code": "HUN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "HU"
+    },
+    {
+        "Entity": "Iceland",
+        "Code": "ISL",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "IS"
+    },
+    {
+        "Entity": "India",
+        "Code": "IND",
+        "Year": "2017",
+        "World Region according to the World Bank": "South Asia",
+        "code2Letters": "IN"
+    },
+    {
+        "Entity": "Indonesia",
+        "Code": "IDN",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "ID"
+    },
+    {
+        "Entity": "Iran",
+        "Code": "IRN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "IR"
+    },
+    {
+        "Entity": "Iraq",
+        "Code": "IRQ",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "IQ"
+    },
+    {
+        "Entity": "Ireland",
+        "Code": "IRL",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "IE"
+    },
+    {
+        "Entity": "Isle of Man",
+        "Code": "IMN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "IM"
+    },
+    {
+        "Entity": "Israel",
+        "Code": "ISR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "IL"
+    },
+    {
+        "Entity": "Italy",
+        "Code": "ITA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "IT"
+    },
+    {
+        "Entity": "Jamaica",
+        "Code": "JAM",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "JM"
+    },
+    {
+        "Entity": "Japan",
+        "Code": "JPN",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "JP"
+    },
+    {
+        "Entity": "Jordan",
+        "Code": "JOR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "JO"
+    },
+    {
+        "Entity": "Kazakhstan",
+        "Code": "KAZ",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "KZ"
+    },
+    {
+        "Entity": "Kenya",
+        "Code": "KEN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "KE"
+    },
+    {
+        "Entity": "Kiribati",
+        "Code": "KIR",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "KI"
+    },
+    {
+        "Entity": "Kosovo",
+        "Code": "OWID_KOS",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia"
+    },
+    {
+        "Entity": "Kuwait",
+        "Code": "KWT",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "KW"
+    },
+    {
+        "Entity": "Kyrgyzstan",
+        "Code": "KGZ",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "KG"
+    },
+    {
+        "Entity": "Laos",
+        "Code": "LAO",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "LA"
+    },
+    {
+        "Entity": "Latvia",
+        "Code": "LVA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "LV"
+    },
+    {
+        "Entity": "Lebanon",
+        "Code": "LBN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "LB"
+    },
+    {
+        "Entity": "Lesotho",
+        "Code": "LSO",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "LS"
+    },
+    {
+        "Entity": "Liberia",
+        "Code": "LBR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "LR"
+    },
+    {
+        "Entity": "Libya",
+        "Code": "LBY",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "LY"
+    },
+    {
+        "Entity": "Liechtenstein",
+        "Code": "LIE",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "LI"
+    },
+    {
+        "Entity": "Lithuania",
+        "Code": "LTU",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "LT"
+    },
+    {
+        "Entity": "Luxembourg",
+        "Code": "LUX",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "LU"
+    },
+    {
+        "Entity": "Macao",
+        "Code": "MAC",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "MO"
+    },
+    {
+        "Entity": "Madagascar",
+        "Code": "MDG",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "MG"
+    },
+    {
+        "Entity": "Malawi",
+        "Code": "MWI",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "MW"
+    },
+    {
+        "Entity": "Malaysia",
+        "Code": "MYS",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "MY"
+    },
+    {
+        "Entity": "Maldives",
+        "Code": "MDV",
+        "Year": "2017",
+        "World Region according to the World Bank": "South Asia",
+        "code2Letters": "MV"
+    },
+    {
+        "Entity": "Mali",
+        "Code": "MLI",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "ML"
+    },
+    {
+        "Entity": "Malta",
+        "Code": "MLT",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "MT"
+    },
+    {
+        "Entity": "Marshall Islands",
+        "Code": "MHL",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "MH"
+    },
+    {
+        "Entity": "Mauritania",
+        "Code": "MRT",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "MR"
+    },
+    {
+        "Entity": "Mauritius",
+        "Code": "MUS",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "MU"
+    },
+    {
+        "Entity": "Mexico",
+        "Code": "MEX",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "MX"
+    },
+    {
+        "Entity": "Micronesia",
+        "Code": "",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific"
+    },
+    {
+        "Entity": "Moldova",
+        "Code": "MDA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "MD"
+    },
+    {
+        "Entity": "Monaco",
+        "Code": "MCO",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "MC"
+    },
+    {
+        "Entity": "Mongolia",
+        "Code": "MNG",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "MN"
+    },
+    {
+        "Entity": "Montenegro",
+        "Code": "MNE",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "ME"
+    },
+    {
+        "Entity": "Morocco",
+        "Code": "MAR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "MA"
+    },
+    {
+        "Entity": "Mozambique",
+        "Code": "MOZ",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "MZ"
+    },
+    {
+        "Entity": "Myanmar",
+        "Code": "MMR",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "MM"
+    },
+    {
+        "Entity": "Namibia",
+        "Code": "NAM",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "NA"
+    },
+    {
+        "Entity": "Nauru",
+        "Code": "NRU",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "NR"
+    },
+    {
+        "Entity": "Nepal",
+        "Code": "NPL",
+        "Year": "2017",
+        "World Region according to the World Bank": "South Asia",
+        "code2Letters": "NP"
+    },
+    {
+        "Entity": "Netherlands",
+        "Code": "NLD",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "NL"
+    },
+    {
+        "Entity": "New Caledonia",
+        "Code": "NCL",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "NC"
+    },
+    {
+        "Entity": "New Zealand",
+        "Code": "NZL",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "NZ"
+    },
+    {
+        "Entity": "Nicaragua",
+        "Code": "NIC",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "NI"
+    },
+    {
+        "Entity": "Niger",
+        "Code": "NER",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "NE"
+    },
+    {
+        "Entity": "Nigeria",
+        "Code": "NGA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "NG"
+    },
+    {
+        "Entity": "North Korea",
+        "Code": "PRK",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "KP"
+    },
+    {
+        "Entity": "North Macedonia",
+        "Code": "MKD",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "MK"
+    },
+    {
+        "Entity": "Northern Mariana Islands",
+        "Code": "MNP",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "MP"
+    },
+    {
+        "Entity": "Norway",
+        "Code": "NOR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "NO"
+    },
+    {
+        "Entity": "Oman",
+        "Code": "OMN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "OM"
+    },
+    {
+        "Entity": "Pakistan",
+        "Code": "PAK",
+        "Year": "2017",
+        "World Region according to the World Bank": "South Asia",
+        "code2Letters": "PK"
+    },
+    {
+        "Entity": "Palau",
+        "Code": "PLW",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "PW"
+    },
+    {
+        "Entity": "Palestine",
+        "Code": "PSE",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "PS"
+    },
+    {
+        "Entity": "Panama",
+        "Code": "PAN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "PA"
+    },
+    {
+        "Entity": "Papua New Guinea",
+        "Code": "PNG",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "PG"
+    },
+    {
+        "Entity": "Paraguay",
+        "Code": "PRY",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "PY"
+    },
+    {
+        "Entity": "Peru",
+        "Code": "PER",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "PE"
+    },
+    {
+        "Entity": "Philippines",
+        "Code": "PHL",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "PH"
+    },
+    {
+        "Entity": "Poland",
+        "Code": "POL",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "PL"
+    },
+    {
+        "Entity": "Portugal",
+        "Code": "PRT",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "PT"
+    },
+    {
+        "Entity": "Puerto Rico",
+        "Code": "PRI",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "PR"
+    },
+    {
+        "Entity": "Qatar",
+        "Code": "QAT",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "QA"
+    },
+    {
+        "Entity": "Romania",
+        "Code": "ROU",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "RO"
+    },
+    {
+        "Entity": "Russia",
+        "Code": "RUS",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "RU"
+    },
+    {
+        "Entity": "Rwanda",
+        "Code": "RWA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "RW"
+    },
+    {
+        "Entity": "Saint Kitts and Nevis",
+        "Code": "KNA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "KN"
+    },
+    {
+        "Entity": "Saint Lucia",
+        "Code": "LCA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "LC"
+    },
+    {
+        "Entity": "Saint Martin (French part)",
+        "Code": "MAF",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "MF"
+    },
+    {
+        "Entity": "Saint Vincent and the Grenadines",
+        "Code": "VCT",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "VC"
+    },
+    {
+        "Entity": "Samoa",
+        "Code": "WSM",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "WS"
+    },
+    {
+        "Entity": "San Marino",
+        "Code": "SMR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "SM"
+    },
+    {
+        "Entity": "Sao Tome and Principe",
+        "Code": "STP",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "ST"
+    },
+    {
+        "Entity": "Saudi Arabia",
+        "Code": "SAU",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "SA"
+    },
+    {
+        "Entity": "Senegal",
+        "Code": "SEN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "SN"
+    },
+    {
+        "Entity": "Serbia",
+        "Code": "SRB",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "RS"
+    },
+    {
+        "Entity": "Seychelles",
+        "Code": "SYC",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "SC"
+    },
+    {
+        "Entity": "Sierra Leone",
+        "Code": "SLE",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "SL"
+    },
+    {
+        "Entity": "Singapore",
+        "Code": "SGP",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "SG"
+    },
+    {
+        "Entity": "Sint Maarten (Dutch part)",
+        "Code": "SXM",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "SX"
+    },
+    {
+        "Entity": "Slovakia",
+        "Code": "SVK",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "SK"
+    },
+    {
+        "Entity": "Slovenia",
+        "Code": "SVN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "SI"
+    },
+    {
+        "Entity": "Solomon Islands",
+        "Code": "SLB",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "SB"
+    },
+    {
+        "Entity": "Somalia",
+        "Code": "SOM",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "SO"
+    },
+    {
+        "Entity": "South Africa",
+        "Code": "ZAF",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "ZA"
+    },
+    {
+        "Entity": "South Korea",
+        "Code": "KOR",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "KR"
+    },
+    {
+        "Entity": "South Sudan",
+        "Code": "SSD",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "SS"
+    },
+    {
+        "Entity": "Spain",
+        "Code": "ESP",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "ES"
+    },
+    {
+        "Entity": "Sri Lanka",
+        "Code": "LKA",
+        "Year": "2017",
+        "World Region according to the World Bank": "South Asia",
+        "code2Letters": "LK"
+    },
+    {
+        "Entity": "Sudan",
+        "Code": "SDN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "SD"
+    },
+    {
+        "Entity": "Suriname",
+        "Code": "SUR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "SR"
+    },
+    {
+        "Entity": "Sweden",
+        "Code": "SWE",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "SE"
+    },
+    {
+        "Entity": "Switzerland",
+        "Code": "CHE",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "CH"
+    },
+    {
+        "Entity": "Syria",
+        "Code": "SYR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "SY"
+    },
+    {
+        "Entity": "Tajikistan",
+        "Code": "TJK",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "TJ"
+    },
+    {
+        "Entity": "Tanzania",
+        "Code": "TZA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "TZ"
+    },
+    {
+        "Entity": "Thailand",
+        "Code": "THA",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "TH"
+    },
+    {
+        "Entity": "Timor",
+        "Code": "TLS",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "TL"
+    },
+    {
+        "Entity": "Togo",
+        "Code": "TGO",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "TG"
+    },
+    {
+        "Entity": "Tonga",
+        "Code": "TON",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "TO"
+    },
+    {
+        "Entity": "Trinidad and Tobago",
+        "Code": "TTO",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "TT"
+    },
+    {
+        "Entity": "Tunisia",
+        "Code": "TUN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "TN"
+    },
+    {
+        "Entity": "Turkey",
+        "Code": "TUR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "TR"
+    },
+    {
+        "Entity": "Turkmenistan",
+        "Code": "TKM",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "TM"
+    },
+    {
+        "Entity": "Turks and Caicos Islands",
+        "Code": "TCA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "TC"
+    },
+    {
+        "Entity": "Tuvalu",
+        "Code": "TUV",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "TV"
+    },
+    {
+        "Entity": "Uganda",
+        "Code": "UGA",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "UG"
+    },
+    {
+        "Entity": "Ukraine",
+        "Code": "UKR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "UA"
+    },
+    {
+        "Entity": "United Arab Emirates",
+        "Code": "ARE",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "AE"
+    },
+    {
+        "Entity": "United Kingdom",
+        "Code": "GBR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "GB"
+    },
+    {
+        "Entity": "United States",
+        "Code": "USA",
+        "Year": "2017",
+        "World Region according to the World Bank": "North America",
+        "code2Letters": "US"
+    },
+    {
+        "Entity": "United States Virgin Islands",
+        "Code": "VIR",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "VI"
+    },
+    {
+        "Entity": "Uruguay",
+        "Code": "URY",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "UY"
+    },
+    {
+        "Entity": "Uzbekistan",
+        "Code": "UZB",
+        "Year": "2017",
+        "World Region according to the World Bank": "Europe and Central Asia",
+        "code2Letters": "UZ"
+    },
+    {
+        "Entity": "Vanuatu",
+        "Code": "VUT",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "VU"
+    },
+    {
+        "Entity": "Venezuela",
+        "Code": "VEN",
+        "Year": "2017",
+        "World Region according to the World Bank": "Latin America and Caribbean",
+        "code2Letters": "VE"
+    },
+    {
+        "Entity": "Vietnam",
+        "Code": "VNM",
+        "Year": "2017",
+        "World Region according to the World Bank": "East Asia and Pacific",
+        "code2Letters": "VN"
+    },
+    {
+        "Entity": "Yemen",
+        "Code": "YEM",
+        "Year": "2017",
+        "World Region according to the World Bank": "Middle East and North Africa",
+        "code2Letters": "YE"
+    },
+    {
+        "Entity": "Zambia",
+        "Code": "ZMB",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "ZM"
+    },
+    {
+        "Entity": "Zimbabwe",
+        "Code": "ZWE",
+        "Year": "2017",
+        "World Region according to the World Bank": "Sub-Saharan Africa",
+        "code2Letters": "ZW"
+    }
+]
