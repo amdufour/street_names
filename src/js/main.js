@@ -7,6 +7,7 @@ import { EUcountries } from "./helpers";
 import { topNames } from "./top-names";
 import { drawDumbbells } from "./dumbbells";
 import { drawMatrix } from "./matrix";
+import { drawForeignRegions } from "./foreign-regions";
 
 const [EUCountriesData, fields, allData] = loadCSVData();
 
@@ -35,6 +36,8 @@ countryWrappers
     .attr("id", d => `country-${d.id}`);
 
 // drawMatrix(top100);
+
+drawForeignRegions(allData);
 
 EUcountries.forEach(country => {
   const relatedData = filteredData.find(d => d.country === country.id).data;
